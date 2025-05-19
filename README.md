@@ -28,9 +28,17 @@ React • Artificial Intelligence (AI) • Amazon Web Services (AWS) • Front-E
 - [Twitter](https://twitter.com/MindaMyers)
 - [Instagram](https://www.instagram.com/minda.myers/)
 
-Professional Activities
+👥 Professional Activities
 * Author for the Towards Data Science publication on Medium.com
 * A regular participant in hackathons in the San Francisco Bay Area
 * I'm active on [Leetcode](https://leetcode.com/u/mindamyers/) and have published more than five unique solutions, beating 80-100% of runtimes before I finished my first 100 problems. 
+
+😎 Hackathons 
+* 2024 AI Conference Hack Day HackrChallenge Winner [Twitter](https://bit.ly/ai-hack-day) [LinkedIn](https://bit.ly/ai-hack-day-li)
+
+📚 Publications 
+- [Towards Data Science: The AWS Bedrock Tutorial I Wish I Had: Everything You Need to Know to Prepare Your Machine for AWS Infrastructure](https://towardsdatascience.com/getting-started-how-to-set-up-a-full-stack-app-with-aws-and-bedrock-2b1b158724b8)
+- [Batched K-Means with Python Numba and CUDA C](https://medium.com/data-science/batched-k-means-with-python-numba-and-cuda-c-3d4946c587b9)
+
 
 ⚡ Fun fact: I've started more than 30 unique paintings, but I find solving Leetcode Hard's easier than finishing any of my paintings. My artwork is viewable on [Instagram](https://www.instagram.com/minda.myers/). 
