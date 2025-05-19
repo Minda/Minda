@@ -31,7 +31,6 @@ React • Artificial Intelligence (AI) • Amazon Web Services (AWS) • Front-E
 👥 Professional Activities
 * Author for the Towards Data Science publication on Medium.com
 * A regular participant in hackathons in the San Francisco Bay Area
-* I'm active on [Leetcode](https://leetcode.com/u/mindamyers/) and have published more than five unique solutions, beating 80-100% of runtimes before I finished my first 100 problems. 
 
 😎 Hackathons 
 * 2024 AI Conference Hack Day HackrChallenge Winner [Twitter](https://bit.ly/ai-hack-day) [LinkedIn](https://bit.ly/ai-hack-day-li)
@@ -40,5 +39,20 @@ React • Artificial Intelligence (AI) • Amazon Web Services (AWS) • Front-E
 - [Towards Data Science: The AWS Bedrock Tutorial I Wish I Had: Everything You Need to Know to Prepare Your Machine for AWS Infrastructure](https://towardsdatascience.com/getting-started-how-to-set-up-a-full-stack-app-with-aws-and-bedrock-2b1b158724b8)
 - [Batched K-Means with Python Numba and CUDA C](https://medium.com/data-science/batched-k-means-with-python-numba-and-cuda-c-3d4946c587b9)
 
+👩‍💻 Leetcode
+
+I'm active on [Leetcode](https://leetcode.com/u/mindamyers/) and have published more than five unique solutions, beating 80-100% of runtimes before I finished my first 100 problems. 
+  
+![Top 1%](https://img.shields.io/badge/top%201%25-royalblue?style=for-the-badge)
+  - Decode Ways - [🔥 Python 3 | Beats 100% runtime and 89% Memory](https://leetcode.com/problems/decode-ways/solutions/6665653/python-3-beats-100-runtime-and-89-memory-olel/)
+  - Flatten Binary Tree to Linked List - [Python3 || 0 ms Runtime Beats 100% of Users 🔥 || Deque ](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solutions/6246478/python3-0-ms-runtime-beats-100-of-users-mtisn/)
+  - Binary Tree Level Order Traversal II - [0ms Beats 100% BFS Python 3 Solution with Deque](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/solutions/6241924/0ms-beats-100-bfs-python-3-solution-with-j7ot/)
+
+![Top 10%](https://img.shields.io/badge/top%2010%25-blueviolet?style=for-the-badge)
+  -  ️‍Partition Labels - [🔥 Beats 90% time - Step-by-step + Visual Explanation](https://leetcode.com/problems/partition-labels/solutions/6748314/python3-beats-90-runtime-and-57-memory-w-dfpt/)
+
+![Top 20%](https://img.shields.io/badge/top%2020%25-cyan?style=for-the-badge)
+  -  ️‍Merge Triplets to Form Target Triplet - LeetCode - [🔥 Python3 Beats 80% runtime (and 87% memory) - with an Intuitive Explanation\
+](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/solutions/6744976/python3-beats-80-runtime-and-87-memory-w-t70g)
 
 ⚡ Fun fact: I've started more than 30 unique paintings, but I find solving Leetcode Hard's easier than finishing any of my paintings. My artwork is viewable on [Instagram](https://www.instagram.com/minda.myers/). 
