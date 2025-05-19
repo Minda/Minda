@@ -31,5 +31,6 @@ React • Artificial Intelligence (AI) • Amazon Web Services (AWS) • Front-E
 Professional Activities
 * Author for the Towards Data Science publication on Medium.com
 * A regular participant in hackathons in the San Francisco Bay Area
+* I'm active on [Leetcode](https://leetcode.com/u/mindamyers/) and have published more than five unique solutions, beating 80-100% of runtimes before I finished my first 100 problems. 
 
 ⚡ Fun fact: I've started more than 30 unique paintings, but I find solving Leetcode Hard's easier than finishing any of my paintings. My artwork is viewable on [Instagram](https://www.instagram.com/minda.myers/). 
