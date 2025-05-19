@@ -48,7 +48,7 @@ My artwork is viewable on [Instagram](https://www.instagram.com/minda.myers/).
 
 👩‍💻 Leetcode
 
-I'm active on [Leetcode](https://leetcode.com/u/mindamyers/) and have published more than five unique solutions, beating 80-100% of runtimes before I finished my first 100 problems. 
+I'm active on [Leetcode](https://leetcode.com/u/mindamyers/) and have [published more than five unique solutions](https://bit.ly/minda-lc-top), beating 80-100% of runtimes before I finished my first 100 problems. 
   
 ![Top 1%](https://img.shields.io/badge/top%201%25-royalblue?style=for-the-badge)
   - Decode Ways - [🔥 Python 3 | Beats 100% runtime and 89% Memory](https://leetcode.com/problems/decode-ways/solutions/6665653/python-3-beats-100-runtime-and-89-memory-olel/)
