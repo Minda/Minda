@@ -28,6 +28,11 @@ React • Artificial Intelligence (AI) • Amazon Web Services (AWS) • Front-E
 - [Twitter](https://twitter.com/MindaMyers)
 - [Instagram](https://www.instagram.com/minda.myers/)
 
+⚡ Fun fact: I've started more than 30 unique paintings, but I find solving Leetcode Hard's easier than finishing any of my paintings. \
+My artwork is viewable on [Instagram](https://www.instagram.com/minda.myers/). 
+
+---
+
 👥 Professional Activities
 * Author for the Towards Data Science publication on Medium.com
 * A regular participant in hackathons in the San Francisco Bay Area
@@ -38,6 +43,8 @@ React • Artificial Intelligence (AI) • Amazon Web Services (AWS) • Front-E
 📚 Publications 
 - [Towards Data Science: The AWS Bedrock Tutorial I Wish I Had: Everything You Need to Know to Prepare Your Machine for AWS Infrastructure](https://towardsdatascience.com/getting-started-how-to-set-up-a-full-stack-app-with-aws-and-bedrock-2b1b158724b8)
 - [Batched K-Means with Python Numba and CUDA C](https://medium.com/data-science/batched-k-means-with-python-numba-and-cuda-c-3d4946c587b9)
+
+---
 
 👩‍💻 Leetcode
 
@@ -54,5 +61,3 @@ I'm active on [Leetcode](https://leetcode.com/u/mindamyers/) and have published 
 ![Top 20%](https://img.shields.io/badge/top%2020%25-cyan?style=for-the-badge)
   -  ️‍Merge Triplets to Form Target Triplet - LeetCode - [🔥 Python3 Beats 80% runtime (and 87% memory) - with an Intuitive Explanation\
 ](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/solutions/6744976/python3-beats-80-runtime-and-87-memory-w-t70g)
-
-⚡ Fun fact: I've started more than 30 unique paintings, but I find solving Leetcode Hard's easier than finishing any of my paintings. My artwork is viewable on [Instagram](https://www.instagram.com/minda.myers/). 
