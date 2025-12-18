@@ -1,63 +1,78 @@
-## Hi there 👋
+<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/" target="_blank" rel="noopener noreferrer"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2021/07/Orbit-Bootstrap-Resume-CV-Template-for-Developers.png" alt="Bootstrap 5 Resume/CV Template for Developers" /></a>
 
-🔭 I’m currently working on boosting computational efficiency by parallelizing algorithms and developing an AI Agent for scientific reasoning.
+## Customization Log
 
-👯 I’m looking to collaborate on Leetcode practice interviews and System Design interviews. You can book me [here](https://calendly.com/kittentech/mock?back=1&month=2025-05) for either. 
+- 2025-12-17: Personalized `index.html` with Minda Myers details (sidebar sections, experience, projects, skills, publications) and hardened external links with `rel="noopener noreferrer"`. To update the headshot, replace `assets/images/profile.png` with your preferred image (keep the same filename).
 
-🤔 I’m looking for help with techniques/frameworks for optimizing state management and renders in React.
+## Theme Details & Demo
 
-💬 Ask me about Front End Development, LLM Prompt Engineering, GPU Optimization.
+**Demo:** https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/
 
-⭐ Top skills
-React • Artificial Intelligence (AI) • Amazon Web Services (AWS) • Front-End Development • Python (Programming Language)
+Orbit is a free Bootstrap 5 resume/CV template designed for developers. Looking to **impress your potential employer**? Get this template and you can **send an online resume/CV** instead of a word/pdf attachment. You can **easily make different versions of your online resume/CV** to tailor for different job positions too. 
 
-🎓 Education
-* B.Sc. in Computer Science with a focus on Computational Neuroscience, Dalhousie University
-* Certificate in User Experience Design, General Assembly
-* Currently completing Stanford's Artificial Intelligence Professional Program
+The template comes with **6 colour schemes**. The source SCSS files are included so it’s quick and easy to change the styling and colour scheme.
 
-🪪 Licenses & Certifications
-- XCS224W - Machine Learning with Graphs. Stanford Online, Issued [Feb 2024](https://digitalcredential.stanford.edu/check/4EE34F681FBE3213EBA4EBA8537CB09849031F77309DEC3F34ABDAE6DE32E087b0xycHNsL2VMM3AxZDMrRHJMZ2JQL0dzMXlsdjZuUEYyRFhPUXpDcGdDYU5QRzBP)
-- XCS221 - Artificial Intelligence: Principles and Techniques. Stanford Online, [Issued Jul 2023](https://digitalcredential.stanford.edu/check/F54F04E95F8EADD284D8510E9F12AE1F137D735E647CF7405E91A7C8CDD1E6B4SVBGTXFJMHFwVFNLSlJCQ0pxSWpYZTFmMVd2eEFVUEcyNWhxUzZNbkEwNkMvRHpj)
+**Want to have a printable version?**
+We’ve released a [free Sketch template](https://themes.3rdwavemedia.com/resources/sketch-template/orbit-sketch-sketch-resume-template-for-developers/) for this theme. [Download Now](https://themes.3rdwavemedia.com/resources/sketch-template/orbit-sketch-sketch-resume-template-for-developers/)
 
-📃 Resume
-- [bit.ly/Minda-resume](https://bit.ly/Minda-resume)
+<a href="https://themes.3rdwavemedia.com/resources/sketch-template/orbit-sketch-sketch-resume-template-for-developers/" target="_blank" rel="noopener noreferrer"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/12/orbit-theme-sketch-template-promo.png" alt="Sketch Resume Template for Developers" /></a>
 
-📫 How to reach me: 
-- [LinkedIn](https://www.linkedin.com/in/mindamyers/)
-- [Twitter](https://twitter.com/MindaMyers)
-- [Instagram](https://www.instagram.com/minda.myers/)
 
-⚡ Fun fact: I've started more than 30 unique paintings, but I find solving Leetcode Hard's easier than finishing any of my paintings. \
-My artwork is viewable on [Instagram](https://www.instagram.com/minda.myers/). 
+## Author & License
 
----
+This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE as long as you **keep the footer attribution link**. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
 
-👥 Professional Activities
-* Author for the Towards Data Science publication on Medium.com
-* A regular participant in hackathons in the San Francisco Bay Area
+If you'd like to **use the template without the attribution link**, you can [buy the **commercial license** via the theme website](https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/)
 
-😎 Hackathons 
-* 2024 AI Conference Hack Day HackrChallenge Winner [Twitter](https://bit.ly/ai-hack-day) [LinkedIn](https://bit.ly/ai-hack-day-li)
+#### Follow Xiaoying
 
-📚 Publications 
-- [Towards Data Science: The AWS Bedrock Tutorial I Wish I Had: Everything You Need to Know to Prepare Your Machine for AWS Infrastructure](https://towardsdatascience.com/getting-started-how-to-set-up-a-full-stack-app-with-aws-and-bedrock-2b1b158724b8)
-- [Batched K-Means with Python Numba and CUDA C](https://medium.com/data-science/batched-k-means-with-python-numba-and-cuda-c-3d4946c587b9)
+[X](https://twitter.com/3rdwave_themes)
 
----
+[Facebook](https://www.facebook.com/3rdwavethemes/)
 
-👩‍💻 Leetcode
+[Dribbble](https://dribbble.com/Xiaoying)
 
-I'm active on [Leetcode](https://leetcode.com/u/mindamyers/) and have [published more than five unique solutions](https://bit.ly/minda-lc-top), beating 80-100% of runtimes before I finished my first 100 problems. 
-  
-![Top 1%](https://img.shields.io/badge/top%201%25-royalblue?style=for-the-badge)
-  - Decode Ways - [🔥 Python 3 | Beats 100% runtime and 89% Memory](https://leetcode.com/problems/decode-ways/solutions/6665653/python-3-beats-100-runtime-and-89-memory-olel/)
-  - Flatten Binary Tree to Linked List - [Python3 || 0 ms Runtime Beats 100% of Users 🔥 || Deque ](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solutions/6246478/python3-0-ms-runtime-beats-100-of-users-mtisn/)
-  - Binary Tree Level Order Traversal II - [0ms Beats 100% BFS Python 3 Solution with Deque](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/solutions/6241924/0ms-beats-100-bfs-python-3-solution-with-j7ot/)
+[Medium](https://medium.com/@3rdwave_themes)
 
-![Top 10%](https://img.shields.io/badge/top%2010%25-blueviolet?style=for-the-badge)
-  -  ️‍Partition Labels - [🔥 Beats 90% time - Step-by-step + Visual Explanation](https://leetcode.com/problems/partition-labels/solutions/6748314/python3-beats-90-runtime-and-57-memory-w-dfpt/)
+[Linkedin](https://uk.linkedin.com/in/xiaoying)
 
-![Top 20%](https://img.shields.io/badge/top%2020%25-cyan?style=for-the-badge)
-  -  ️‍Merge Triplets to Form Target Triplet - LeetCode - [🔥 Python3 Beats 80% runtime (and 87% memory) - with an Intuitive Explanation\
-](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/solutions/6744976/python3-beats-80-runtime-and-87-memory-w-t70g)
+
+## Latest Version
+**Bootstrap v3.1** - 2024-09-18
+
+
+[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/?target=changelog)
+
+## Colour Schemes
+
+#### Colour 1 (orbit-1.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-1.jpg" width="300" alt="Orbit color 1" />
+
+#### Colour 2 (orbit-2.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-2.jpg" width="300" alt="Orbit color 2" />
+
+#### Colour 3 (orbit-3.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-3.jpg" width="300" alt="Orbit color 3" />
+
+#### Colour 4 (orbit-4.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-4.jpg" width="300" alt="Orbit color 4" />
+
+#### Colour 5 (orbit-5.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-5.jpg" width="300" alt="Orbit color 5" />
+
+#### Colour 6 (orbit-6.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-6.jpg" width="300" alt="Orbit color 6" />
+
+## Features
+
+-  Fully Responsive
+-  HTML5 + CSS3
+-  Built on Bootstrap 5
+-  **SCSS** source files included
+-  6 Colour Schemes
+-  1000+ FontAwesome 5 icons
+-  Compatible with all modern browsers
+
+## Credits
+- [Bootstrap](https://getbootstrap.com/)
+- [FontAwesome](https://fontawesome.com/)
