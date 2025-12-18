@@ -5,4 +5,5 @@ My name is Minda Myers. I’m an AI engineer specializing in agentic LLM systems
 - 🔭 I’m currently working on agentic LLM UX patterns, RAG-based learning tools, and GPU-accelerated optimization.
 - 👯 I’m looking to collaborate on interpretability / evals, human-centered AI products, and fast, well-designed AI interfaces.
 - 🤔 I’m looking for help with ambitious research-to-product projects (especially where great UX and rigorous AI engineering meet).
-- 💬 Ask me about AI guardrails, LlamaIndex/RAG, performance optimization, and UX for neurodiverse users.
+- 💬 Ask me about AI interpretability, LlamaIndex/RAG, performance optimization, and UX for neurodiverse users.
+
