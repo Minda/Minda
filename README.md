@@ -2,7 +2,10 @@
 
 AI engineer on Stanford University's AI Catalyst team, where I build tools that help researchers find and manage funding so they can spend their time on research instead of paperwork. Before that: 10+ years shipping production web apps, with a long stretch in UX and front-end.
 
-What I work on: agentic LLM systems, RAG, and the UX layer that makes them usable. I care a lot about interfaces that are fast and don't fight you, including for neurodiverse users.
+- 🔭 I'm currently working on verifiable agents with [Mind Guild](https://mind-guild.com/members/minda/), agentic tools for Stanford researchers (funding discovery and management), Claude Code skills, agentic LLM UX patterns, and personal cognitive-scaffolding systems for working with AI assistants ([Exobrain](https://github.com/Minda/Exobrain)).
+- 👯 I'm looking to collaborate on interpretability and evals, multi-agent safety, neuromorphic / novel architectures, and human-centered AI products.
+- 🤔 I'm looking for help with mapping thresholds of emergent sentience in cybernetic agents.
+- 💬 Ask me about machine consciousness architectures, whole brain emulation, Claude Code skills, and UX for neurodiverse users.
 
 Resume: [minda.github.io](https://minda.github.io/) · Everything else (talks, publications, writing): [mindamyers.com](https://mindamyers.com)
 
